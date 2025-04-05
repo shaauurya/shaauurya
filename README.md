@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/592bd1b6dea2bfc021dc03cd02dff0b8be86bf37d043d21cb28a461f2f1abeca/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f647a78686e333761652f696d6167652f75706c6f61642f76313731353432353237382f75756369657770783734756e6d326670757336362e676966"></img>
-<h1 align="center">Hi 👋, I'm Shaurya Solanki</h1>
+<h1 align="center">🙌 Hi there I’m Shaurya Solanki! </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png">
