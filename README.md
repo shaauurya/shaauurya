@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="" alt="shaurya158" /> </p>
 
-- 🌱 I’m currently learning **Full stack Development**
+- 🌱 I’m currently learning and **Full stack Development**
 
 - 📫 How to reach me **shaurya121216@gmail.com**
 
