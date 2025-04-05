@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shaurya Solanki</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png">
 
 <p align="left"> <img src="" alt="shaurya158" /> </p>
 
